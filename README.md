@@ -1,6 +1,4 @@
-# write_chest_xray_readme.py
 
-readme_content = """
 # 🫁 Chest X-Ray Diagnosis
 
 ## 🎯 Objective
